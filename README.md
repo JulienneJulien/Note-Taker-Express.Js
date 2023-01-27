@@ -46,7 +46,7 @@
 
 ## Installation
 ***Please install the package locally to your working project directory.***
-- On your preferred code editor, use the command line to run* `npm install`
+- On your preferred code editor, use the command line to run `npm install`
 - If there is a package.json file in the directory in which npm install is run, npm installs the latest version of the package that satisfies the semantic versioning rule declared in package.json.
 - If there is no package.json file, the latest version of the package is installed.
 
