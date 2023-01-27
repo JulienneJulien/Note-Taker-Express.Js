@@ -12,11 +12,11 @@ app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 
 // HTML ROUTES CREATED
-// GET * should return the index.html file.
-app.get("*", function (req, res) {
+// Returns/call the index.html home page file.
+app.get("/", function (req, res) {
     res.sendFile(path.join(__dirname, "/public/index.html"));
 });
-// GET /notes should return the notes.html file.
+//Returns the notes.html file.
 app.get("/notes", function (req, res) {
     res.sendFile(path.join(__dirname, "/public/notes.html"));
 });
@@ -35,5 +35,6 @@ app.post("/api/notes", (req, res) => {
     fs.writeFileSync("./db/db.json", JSON.stringify(notes))
     res.json(notes);
 });
+
 // START LISTENING
 app.listen(PORT, () => console.log('Server Listening on port' + PORT));
