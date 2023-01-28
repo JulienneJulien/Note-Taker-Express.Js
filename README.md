@@ -46,17 +46,18 @@
 
 ## Installation
 ***Please install the package locally to your working project directory.***
-- On your preferred code editor, use the command line to run `npm install`
+- On your preferred code editor, use the command line to run `npm install express`
 - If there is a package.json file in the directory in which npm install is run, npm installs the latest version of the package that satisfies the semantic versioning rule declared in package.json.
 - If there is no package.json file, the latest version of the package is installed.
 
 
 ## Usage
 ***Please ensure you have followed above steps to install package first!***
-- Access/create the **server.js** file inside your working directory project folder.
--  Copy and paste the code below within your accessed/created **server.js** file.
-`node server.js`
-- Observe the result in the terminal. See the images and video below for demo. 
+- Access/create the **server.js** file inside your working directory project folder. Copy and paste the code below within your accessed/created **server.js** file to run the application `node server.js`
+- Once the **Note Taker** is opened, select the *get started* link to be brought to the notes page. 
+`A note can be created by adding a title, and a description, then clicking the save button to save the note, or by deleting the note by clicking the trash icon.`
+
+***See the images and video below for demo.***
 
 IMAGES/DEMO VIDEO GOES HERE
 
