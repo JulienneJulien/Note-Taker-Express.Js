@@ -37,10 +37,10 @@ app.post("/api/notes", (req, res) => {
 });
 
 // START LISTENING
-app.listen(PORT, () => console.log('Server Listening on port' + PORT));
+app.listen(PORT, () => console.log(' Server Listening on port ' + PORT));
 
 // BONUS - DELETE REQUEST
-app.delete("api/notes/:id", (req, res) => {
+app.delete("/api/notes/:id", (req, res) => {
     const notes = JSON.parse(fs.readFileSync("./db/db.json"));
     const deleteNotes = notes.filter((removeNote)=> removeNote.id !== req.params.id);
     fs.writeFileSync("./db/db.json", JSON.stringify(deleteNotes))
