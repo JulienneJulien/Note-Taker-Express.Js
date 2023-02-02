@@ -64,6 +64,13 @@
 
 https://user-images.githubusercontent.com/117052258/216473047-d627b9fe-a176-4276-bcdc-6603db9062d5.mp4
 
+![GET STARTED SCREEN](https://user-images.githubusercontent.com/117052258/216473392-7a294559-bb9b-4cdc-9fbd-ed7afda5235b.png)
+
+![NOTES SCREENSHOT](https://user-images.githubusercontent.com/117052258/216473449-ce9b2217-9c65-4c8f-81cb-e1f44fdc3530.png)
+
+![SCREENSHOT 2](https://user-images.githubusercontent.com/117052258/216473483-cd312c86-5d8b-4d6e-97dd-3e2b403aa13f.png)
+
+
 ## Contributing
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
