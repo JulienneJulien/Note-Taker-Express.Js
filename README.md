@@ -5,6 +5,7 @@
 ## Table of Content
 - [Note-Taker-Express.Js](#note-taker-expressjs)
   - [Table of Content](#table-of-content)
+  - [Deployment](#Deployment)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
