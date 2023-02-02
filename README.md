@@ -53,8 +53,11 @@
 
 ## Usage
 ***Please ensure you have followed above steps to install package first!***
-- Access/create the **server.js** file inside your working directory project folder. Copy and paste the code below within your accessed/created **server.js** file to run the application `node server.js`
+- Access your working directory project folder. Copy and paste the code below to run the application 
+`node server.js`
+- This will activate the server that hosts the webpage at localhost:8000.
 - Once the **Note Taker** is opened, select the *get started* link to be brought to the notes page. 
+
 `A note can be created by adding a title, and a description, then clicking the save button to save the note, or by deleting the note by clicking the trash icon.`
 
 ***See the images and video below for demo.***
