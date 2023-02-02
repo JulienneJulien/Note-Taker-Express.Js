@@ -62,7 +62,7 @@
 
 ***See the images and video below for demo.***
 
-IMAGES/DEMO VIDEO GOES HERE
+https://user-images.githubusercontent.com/117052258/216473047-d627b9fe-a176-4276-bcdc-6603db9062d5.mp4
 
 ## Contributing
 
